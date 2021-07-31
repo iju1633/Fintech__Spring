@@ -1,2 +1,3 @@
-# Fintech_SpringBoot
-📋 핀테크 Pre-인턴십 스프링부트 실습  
+# Fintech-SpringBoot
+
+## 핀테크 지원센터 Pre-인턴십 금융IT 실습
