@@ -1,2 +1,2 @@
 # Fintech-SpringBoot
-springboot-tutorial-init
+with Pre-인턴십 2기
